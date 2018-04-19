@@ -1,0 +1,16 @@
+package io.nano.java;
+import java.util.Scanner;
+
+public class Prob2 {
+
+	public static void main(String[] args) {
+		Scanner	sc = new Scanner(System.in);
+		float a, b, c;
+		System.out.println("Nhập vào các hệ số a, b, c: ");
+		a = sc.nextFloat();
+		b = sc.nextFloat();
+		c = sc.nextFloat();
+		gpt(a, b, c);
+	}
+
+}

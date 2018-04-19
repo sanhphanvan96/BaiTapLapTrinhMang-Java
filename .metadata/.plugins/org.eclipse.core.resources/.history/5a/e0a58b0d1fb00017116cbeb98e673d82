@@ -1,0 +1,10 @@
+package io.nano.java;
+
+public class Prob2 {
+
+	public static void main(String[] args) {
+		
+		System.out.println("Nhập vào các hệ số a, b, c: ");
+	}
+
+}

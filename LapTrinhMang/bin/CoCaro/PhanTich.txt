@@ -1,0 +1,16 @@
+Client
+
+Frame
+Mouse
+Graphics
+Gui toa do chuot
+Nhan cac toa do tu server
+
+SERVER
+
+Kiem tra - Dieu kien chuot
+Kiem tra - Luot danh
+Kiem tra - Mat ket noi
+Quan ly toa do
+Gui toa do danh cho client
+Kiem tra toa do cho client

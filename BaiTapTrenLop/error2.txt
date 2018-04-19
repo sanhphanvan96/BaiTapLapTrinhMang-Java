@@ -1,0 +1,20 @@
+Dòng 4: Không tồn tại nhân viên: NV000003
+Dòng 6: Thu nhập không được nhỏ hơn 0: -5000
+Dòng 4: Không tồn tại nhân viên: NV000003
+Dòng 6: Thu nhập không được nhỏ hơn 0: -5000
+Dòng 4: Không tồn tại nhân viên: NV000003
+Dòng 6: Thu nhập không được nhỏ hơn 0: -5000
+Dòng 4: Không tồn tại nhân viên: NV000003
+Dòng 6: Thu nhập không được nhỏ hơn 0: -5000
+Dòng 4: Không tồn tại nhân viên: NV000003
+Dòng 6: Thu nhập không được nhỏ hơn 0: -5000
+Dòng 4: Không tồn tại nhân viên: NV000003
+Dòng 6: Thu nhập không được nhỏ hơn 0: -5000
+Dòng 4: Không tồn tại nhân viên: NV000003
+Dòng 6: Thu nhập không được nhỏ hơn 0: -5000
+Dòng 4: Không tồn tại nhân viên: NV000003
+Dòng 6: Thu nhập không được nhỏ hơn 0: -5000
+Dòng 4: Không tồn tại nhân viên: NV000003
+Dòng 6: Thu nhập không được nhỏ hơn 0: -5000
+Dòng 4: Không tồn tại nhân viên: NV000003
+Dòng 6: Thu nhập không được nhỏ hơn 0: -5000
